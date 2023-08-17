@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://gilberthg:bGB9wrlO9xN9YvoG@cluster0.uuuxfpy.mongodb.net/?retryWrites=true&w=majority
+      database: Productsdb
+
+server:
+  port: 8081
